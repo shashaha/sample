@@ -1,17 +1,9 @@
 
 
-console.js('hello world');console.js('hello world');
+consol.log('hafsathMT')
+consol.log('hafsathMT')console.js('shahinsha');
+console.js('shahinsha');console.js('shahinsha');
 console.js('shahinsha');
-
-console.js('hello world');console.js('hello world');
-console.js('shahinsha');
-
-console.js('hello world');console.js('hello world');console.js('hello world');
-console.js('shahinsha');
-
-
-
-
 
 
  name: Cache
@@ -23,13 +15,3 @@ console.js('shahinsha');
     key: 
     # An ordered list of keys to use for restoring the cache if no cache hit occurred for key
     restore-keys: # optional
-
-
-
-
-
-
-
-
-
-
